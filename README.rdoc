@@ -4,6 +4,6 @@ logger with fancy color and/or decoration powered by term-ansicolor.
 
 == Copyright
 
-Copyright (c) 2011 lpm11. See LICENSE.txt for
-further details.
+Copyright (c) 2011 lpm11. This library released under the NYSL license.
+See LICENSE.txt for further details.
 
