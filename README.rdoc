@@ -1,6 +1,7 @@
 = term-ansicolor-logger
 
 logger with fancy color and/or decoration powered by term-ansicolor.
+require "term/ansicolor/logger" to use fancy functions.
 
 == Copyright
 
