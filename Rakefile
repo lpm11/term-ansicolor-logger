@@ -16,9 +16,9 @@ Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
   gem.name = "term-ansicolor-logger"
   gem.homepage = "http://github.com/lpm11/term-ansicolor-logger"
-  gem.license = "MIT"
+  gem.license = "NYSL"
   gem.summary = "logger with term-ansicolor."
-  gem.description = "logger with term-ansicolor. That's all!"
+  gem.description = "logger with fancy color and/or decoration powered by term-ansicolor."
   gem.email = "lpm11r@gmail.com"
   gem.authors = ["lpm11"]
   # dependencies defined in Gemfile
