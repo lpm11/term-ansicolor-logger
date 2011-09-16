@@ -27,7 +27,8 @@ Gem::Specification.new do |s|
     "VERSION",
     "lib/term/ansicolor/logger.rb",
     "spec/spec_helper.rb",
-    "spec/term-ansicolor-logger_spec.rb"
+    "spec/term-ansicolor-logger_spec.rb",
+    "term-ansicolor-logger.gemspec"
   ]
   s.homepage = %q{http://github.com/lpm11/term-ansicolor-logger}
   s.licenses = ["MIT"]
