@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{term-ansicolor-logger}
-  s.version = "0.0.0"
+  s.version = "1.0.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["lpm11"]
-  s.date = %q{2011-09-16}
+  s.date = %q{2011-09-17}
   s.description = %q{logger with term-ansicolor. That's all!}
   s.email = %q{lpm11r@gmail.com}
   s.extra_rdoc_files = [
@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "examples/sample1.rb",
     "lib/term/ansicolor/logger.rb",
     "spec/spec_helper.rb",
     "spec/term-ansicolor-logger_spec.rb",
