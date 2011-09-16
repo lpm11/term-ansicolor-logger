@@ -5,12 +5,12 @@
 
 Gem::Specification.new do |s|
   s.name = %q{term-ansicolor-logger}
-  s.version = "1.0.2"
+  s.version = "1.0.3"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["lpm11"]
   s.date = %q{2011-09-17}
-  s.description = %q{logger with term-ansicolor. That's all!}
+  s.description = %q{logger with fancy color and/or decoration powered by term-ansicolor.}
   s.email = %q{lpm11r@gmail.com}
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -32,7 +32,7 @@ Gem::Specification.new do |s|
     "term-ansicolor-logger.gemspec"
   ]
   s.homepage = %q{http://github.com/lpm11/term-ansicolor-logger}
-  s.licenses = ["MIT"]
+  s.licenses = ["NYSL"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.5.0}
   s.summary = %q{logger with term-ansicolor.}
