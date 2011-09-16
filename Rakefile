@@ -17,9 +17,9 @@ Jeweler::Tasks.new do |gem|
   gem.name = "term-ansicolor-logger"
   gem.homepage = "http://github.com/lpm11/term-ansicolor-logger"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "main@lpm11.net"
+  gem.summary = "logger with term-ansicolor."
+  gem.description = "logger with term-ansicolor. That's all!"
+  gem.email = "lpm11r@gmail.com"
   gem.authors = ["lpm11"]
   # dependencies defined in Gemfile
 end
